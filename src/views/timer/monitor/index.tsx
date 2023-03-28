@@ -6,7 +6,7 @@ const Monitor = () => {
             <iframe
                 id="monitor"
                 name="XTimer 监控看板"
-                src="http://43.143.168.5:3000/d/-D2G_hKVz/xtimer-jian-kong-da-pan?kiosk"
+                src="http://182.92.189.35:3000/d/dkfkyPB4k/task-timer&kiosk"
                 width="100%"
                 height="700"
                 title="XTimer 监控看板"
