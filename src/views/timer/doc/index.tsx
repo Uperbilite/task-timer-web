@@ -2,14 +2,14 @@ import { PageContainer } from '@ant-design/pro-layout';
 
 const Doc = () => {
     return (
-        <PageContainer title="XTimer 定时器技术文档">
+        <PageContainer title="定时器技术文档">
             <iframe
                 id="doc"
-                name="XTimer 技术文档"
-                src="https://juejin.cn/post/7174007780104208392"
+                name="技术文档"
+                src="http://182.92.189.35:8080/2023/03/29/tasktimer/"
                 width="100%"
                 height="700"
-                title="XTimer 技术文档"
+                title="task timer 技术文档"
                 frameBorder="yes"
             />
         </PageContainer>

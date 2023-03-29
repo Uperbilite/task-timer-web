@@ -55,7 +55,7 @@ const View = () => {
             <div className={styles.loginBox + " loginbox"}>
                 {/**标题部分*/}
                 <div className={styles.title}>
-                    <h1>小徐先生&nbsp;·&nbsp;XTimer 后台系统</h1>
+                    <h1>后台系统 测试账号：test 密码：test</h1>
                     <p>祝您开心每一天~</p>
                 </div>
                 {/**表单部分*/}
