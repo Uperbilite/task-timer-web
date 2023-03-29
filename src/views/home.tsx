@@ -56,7 +56,7 @@ const View: React.FC = () => {
                         <div>
                             <br></br>
                             <br></br>
-                            <Card size="default" title="xTimer: 一款基于 go 语言实现的分布式定时任务系统" headStyle={{ textAlign: "center", fontSize: "24px" }} hoverable={true} style={{ width: 1150, alignItems:"baseline" }}>
+                            <Card size="default" title="一款基于 go 语言实现的分布式定时任务系统" headStyle={{ textAlign: "center", fontSize: "24px" }} hoverable={true} style={{ width: 1150, alignItems:"baseline" }}>
                                 <p style={{ fontWeight: "bold", fontSize: "18px" }}>开源地址: </p>
                                 <a href='https://github.com/Uperbilite/task-timer' >https://github.com/Uperbilite/task-timer</a>
                                 <br></br>

@@ -164,7 +164,7 @@ const TimerList: FC = () => {
 
 
   return (
-    <PageContainer title="XTimer 定时器" className={styles['timers']}>
+    <PageContainer title="定时器" className={styles['timers']}>
       <br></br>
       <br></br>
       <div>
